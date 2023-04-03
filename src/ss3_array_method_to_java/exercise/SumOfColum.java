@@ -25,7 +25,7 @@ public class SumOfColum {
         }
         System.out.println("Nhập cột bạn muốn tính tổng :");
         int indexCol = scanner.nextInt();
-        System.out.println("Tổng của cột :" + indexCol + " là :" + columSum(myArr, indexCol));  
+        System.out.println("Tổng của cột :" + indexCol + " là :" + columSum(myArr, indexCol));
     }
     public static double columSum(double[][] myArr, int index) {
         double sum = 0;
