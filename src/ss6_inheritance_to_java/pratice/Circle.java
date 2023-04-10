@@ -3,6 +3,7 @@ package ss6_inheritance_to_java.pratice;
 import ss6_inheritance_to_java.pratice.Shape;
 
 public class Circle extends Shape {
+
     private double radius = 1.0 ;
 
     public Circle() {
