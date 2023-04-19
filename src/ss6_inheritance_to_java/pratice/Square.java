@@ -1,15 +1,13 @@
 package ss6_inheritance_to_java.pratice;
 
 public class Square extends Rectangle{
-    public Square() {
-    }
 
     public Square(double size) {
         super(size, size);
     }
-//    public Square(double side, String color, boolean filled) {
-//        super(side, side, color, filled);
-//    }
+    public Square(double side, String color, boolean filled) {
+        super(side, side, color, filled);
+    }
 
     public double getSide() {
         return getWidth();
