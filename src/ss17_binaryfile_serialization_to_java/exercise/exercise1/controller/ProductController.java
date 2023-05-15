@@ -1,6 +1,6 @@
-package ss17_binaryfile_serialization_to_java.exercise.controller;
+package ss17_binaryfile_serialization_to_java.exercise.exercise1.controller;
 
-import ss17_binaryfile_serialization_to_java.exercise.service.ProductService;
+import ss17_binaryfile_serialization_to_java.exercise.exercise1.service.ProductService;
 
 import java.io.Serializable;
 import java.util.Scanner;

@@ -1,6 +1,6 @@
-package ss17_binaryfile_serialization_to_java.exercise.repository;
+package ss17_binaryfile_serialization_to_java.exercise.exercise1.repository;
 
-import ss17_binaryfile_serialization_to_java.exercise.model.Product;
+import ss17_binaryfile_serialization_to_java.exercise.exercise1.model.Product;
 
 import java.io.*;
 import java.util.ArrayList;

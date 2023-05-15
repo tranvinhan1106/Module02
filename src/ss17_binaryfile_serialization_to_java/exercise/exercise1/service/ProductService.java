@@ -1,7 +1,7 @@
-package ss17_binaryfile_serialization_to_java.exercise.service;
+package ss17_binaryfile_serialization_to_java.exercise.exercise1.service;
 
-import ss17_binaryfile_serialization_to_java.exercise.model.Product;
-import ss17_binaryfile_serialization_to_java.exercise.repository.ProductRepository;
+import ss17_binaryfile_serialization_to_java.exercise.exercise1.model.Product;
+import ss17_binaryfile_serialization_to_java.exercise.exercise1.repository.ProductRepository;
 
 
 import java.io.Serializable;
