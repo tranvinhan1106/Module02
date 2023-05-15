@@ -1,0 +1,4 @@
+Java là một Ngôn Ngữ Lập Trình Hướng Đối Tượng (OOP).
+Do đó khi lập trình với ngôn ngữ này bạn sẽ phải làm việc với các lớp (Class).
+Cú pháp của Java được vay mượn nhiều từ C/C++ nhưng lại có đặc tính hướng đối tượng đơn giản hơn và ít tính năng xử lý cấp thấp hơn,
+nên việc tiếp cận Java sẽ dễ dàng hơn C/C++.
